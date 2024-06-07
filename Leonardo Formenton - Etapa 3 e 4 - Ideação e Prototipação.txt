@@ -1,0 +1,32 @@
+﻿1-O aluno buscou soluções "fora da caixa", fugiu do óbvio?
+2-O aluno foi em busca de soluções diferentes em diversas fontes (internet, podcasts, amigos, revistas, notícias, etc.)?
+3-O aluno demonstrou cuidado ao redigir sua ideia em um conjunto coeso de respostas que demonstram criatividade e interesse pelo assunto?
+O aluno criou um documento de requisitos que contempla todos os parâmetros propostos?
+O aluno criou um protótipo de interface (texto/visual)?
+
+
+Objetivo do software: Garantir um corpo saudável, por meio de  perguntar o peso e altura, mostrar o peso ideal para sua idade, colocar o tanto de calorias que deve comer no dia, mostrar alguns alimentos e falar a caloria deles. 
+
+
+Nome da aplicação: Fitnessrs
+
+
+1- Não, nosso aplicativo é relativamente comum na indústria de apps, entretanto poucos aplicativos demonstram uma eficácia e com diversos recursos. 
+
+
+ 
+2- O aluno foi em busca de sites sobre detalhes técnicos relacionados ao objetivo do projeto. Além de que, consultamos um indivíduo usador de sites como o nosso e dentro da área fitness, obtendo seu feedback.
+
+
+3- Realizado com cuidado e prestatividade, o interesse pelo assunto é derivado de companheiros que exercem essa prática, e influencers dessa área.
+
+
+
+
+* Foi criado na aba de apresentação os requisitos funcionais.
+* Feito no site miro.
+
+
+: Existem apps com o mesmo objetivo?
+Sim
+Existem funcionalidades como  criar um calendário com lembrete da hora que você deve comer.
