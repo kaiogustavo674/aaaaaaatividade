@@ -1,4 +1,15 @@
-print ('projeto fitness!!')
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -22,3 +33,5 @@ while True:
 
  elif opcao == (3):
  
+
+
