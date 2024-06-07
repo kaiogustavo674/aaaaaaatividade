@@ -4,3 +4,4 @@ while True:
  
  if opcao == (1):
   print('peso ideal')
+  input("Qual a sua altura")
